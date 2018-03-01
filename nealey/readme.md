@@ -17,6 +17,6 @@
        in terminal:
        nearley-railroad grammar.ne -o grammar.html
 # grammar.ne is file name where grammar is written.
-# you can change the grammar file at any time.
+# you can change the grammar file name & it's content any time.
 # zip files are the nearley examples. just extract & do as above.
 # more: https://nearley.js.org/
