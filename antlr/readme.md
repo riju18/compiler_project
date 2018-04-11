@@ -1,5 +1,5 @@
 # 1) after the environment setup:
-      delete all files except experi.g4, sample.txt & .zip;
+      delete all files except experi.g4, sample.txt, antlr_setup & .zip;
 # 2) open the terminal or windows powershell(shift+right click);
       antlr4 experi.g4                     //experi.g4 is the file name;
       javac experi*.java                   //javac is javacompile
